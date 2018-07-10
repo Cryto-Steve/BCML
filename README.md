@@ -38,5 +38,7 @@ Report Types
 | 0x02 | Business Closed |
 | 0x03 | Not accepting BCH |
 
+Additional discussion on Yours.org:  https://www.yours.org/content/decentralized-listing-of-bitcoin-cash-merchants--bcml----protocol-prop-488a16a8418a
+
 
 bitcoincash:qpz4hkg4z0xqny326k90pqvdud57h6m0agk0pj6e62
